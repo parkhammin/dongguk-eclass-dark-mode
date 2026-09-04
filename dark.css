@@ -239,3 +239,19 @@ a {
 #page-container .col-block .notices .notice-item.notice-item-notice .subject {
     color: #00d587 !important;
 }
+
+#page-userinfo .row-userinfo .col-tab-content {
+    background-color: #3e3e3e !important;
+}
+
+#page-userinfo #tab-my .user-links .link {
+    background-color: #3e3e3e !important;
+}
+
+#page-userinfo #tab-my .user-mycourses ul.courses .course-item a {
+    background-color: #3e3e3e !important;
+}
+
+#page-userinfo #tab-my .user-info .dropdown-lang .dropdown-toggle {
+    background: #eeeeee !important;
+}
