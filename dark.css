@@ -1,0 +1,241 @@
+/*
+ * 동국대학교 e-Class 다크 테마
+ * 이 파일의 CSS만 자유롭게 추가하거나 수정하세요.
+ * 확장 프로그램 관리 화면에서 확장을 새로고침하면 변경사항이 반영됩니다.
+ */
+
+/* 기본 예시 */
+html,
+body,
+#page-container {
+  background-color: #3e3e3e !important;
+  color: #eeeeee !important;
+}
+
+/*우측 컨테이너*/
+#page-container .col-block .front-box {
+    background-color: transparent !important;
+}
+#page-container .col-block {
+    background-color: transparent !important;
+}
+#page-container .col-block .front-box .front-box-header .title {
+    color: #eeeeee !important;
+}
+
+.my-course-lists li {
+    background-color: transparent !important;
+}
+
+.my-course-lists li .course-box .course-link .course-name .course-title h3 {
+    color: #eeeeee !important;
+}
+
+#page-container .col-block .upcommings .upcomming-item {
+    background-color: transparent !important;
+}
+
+#page-container .col-block .upcommings .upcomming-item .media-body .activity-name {
+    color: #eeeeee !important;
+}
+
+.btn-default, .btn-secondary, .btn-ub-default {
+    background-color: #ccc !important;
+}
+
+.front-box-notice .front-box-body .notices {
+    background-color: transparent !important;
+}
+
+.front-box-notice .front-box-body .notices .notice-item a {
+    color: #eeeeee !important;
+}
+
+#page-container .col-block .notices .notice-item a {
+    color: #eeeeee !important;
+}
+
+.block {
+    background-color: transparent !important;
+}
+
+.block .card-header {
+    background-color: transparent !important;
+}
+
+#page-container .col-block .block-region .block .card-header .card-title {
+    color: #eeeeee !important;
+}
+
+body.coursemos-menu #page-container #page-lnb {
+    background-color: transparent !important;
+}
+
+#page-lnb .block-coursemos-submenu .menu .menu-item>a {
+    color: #eeeeee !important;
+}
+
+.card, #page-enrol-users #filterform, .que .history, .userprofile .profile_tree section, .groupinfobox, .well {
+    background-color: transparent !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .path-calendar .maincalendar .calendar-controls .current, .h3, .h4, .h5, .h6 {
+    color: #eeeeee !important;
+}
+
+.custom-select {
+    background-color: #ccc !important;
+}
+
+#page-calendar-view .calendarwrapper .eventlist>.event .card-calendar .calendar-header .calendar-name-date .calendar-date .date-link a {
+    color: #5eb0ff !important;
+}
+
+#page-container .col-block .upcommings .upcomming-item .media-body .course-name {
+    color: #999 !important;
+}
+
+body.coursemos-layout-course.coursemos-coursepage-main .course-article {
+    background-color: #a9a9a9 !important;
+}
+
+#page-lnb .block-coursehome .card-body ul.topmenu .topmenu-item.expand, #page-lnb .block-coursehome .userprofile .profile_tree section ul.topmenu .topmenu-item.expand, .userprofile .profile_tree #page-lnb .block-coursehome section ul.topmenu .topmenu-item.expand {
+    background-color: #a9a9a9 !important;
+}
+
+.block .card-header .card-title a {
+    color: #78d1b0 !important;
+}
+
+#page-lnb .block-coursehome .card-body ul.topmenu .topmenu-item>a, #page-lnb .block-coursehome .userprofile .profile_tree section ul.topmenu .topmenu-item>a, .userprofile .profile_tree #page-lnb .block-coursehome section ul.topmenu .topmenu-item>a {
+    color: #eeeeee !important;
+}
+
+#page-lnb .block-quick-mod .activities>li a {
+    color: #eeeeee !important;
+}
+
+body.coursemos-layout-course.coursemos-coursepage-main .course-article .col-article .course-article-body .article-list .article-list-item a {
+    color: #494949 !important;
+}
+
+#page-lnb .block-coursehome .card-body ul.topmenu .topmenu-item .submenu .submenu-item>a, #page-lnb .block-coursehome .userprofile .profile_tree section ul.topmenu .topmenu-item .submenu .submenu-item>a, .userprofile .profile_tree #page-lnb .block-coursehome section ul.topmenu .topmenu-item .submenu .submenu-item>a {
+    color: #494949 !important;
+}
+
+ul.section_tab>li {
+    background-color: #a9a9a9 !important;
+}
+
+.format-flexsections .course-content ul.flexsections li#section-0>.content>ul.section li.activity .instancename {
+    color: #eeeeee;
+}
+
+.table-bordered tr th {
+    background: #535353 !important;
+}
+
+body.coursemos-layout-course.coursemos-coursepage #page-container #page-content .page-content-navigation nav .breadcrumb .breadcrumb-item:last-child a {
+    color: #eeeeee !important;
+}
+
+.table-coursemos>thead>tr>td, .table-coursemos>tbody>tr>td, .table-coursemos>tfoot>tr>td {
+    background-color: transparent !important;
+}
+
+.card, #page-enrol-users #filterform, .que .history, .userprofile .profile_tree section, .groupinfobox, .well {
+    border: 1px solid #eeeeee !important;
+}
+
+.table-coursemos tbody th, .table-coursemos tfoot th, .table-coursemos tbody .th, .table-coursemos tfoot .th {
+    color: #eeeeee !important;
+}
+
+.form-control {
+    background-color: #ccc !important;
+}
+
+.ubboard .ubboard_table th.header {
+    background: #535353 !important;
+}
+
+.ubboard .ubboard_table {
+    background-color: transparent !important;
+}
+
+.ubboard_list .ubboard_container {
+    background-color: transparent !important;
+}
+
+.ubboard_view .content {
+    background-color: transparent !important;
+}
+
+.ubboard_view .info {
+    background-color: transparent !important;
+    color: #eeeeee !important;
+}
+
+.ubboard_view .subject {
+    background: #535353 !important;
+}
+
+.ubboard_view .info span.title {
+    color: #eeeeee !important;
+}
+
+.ubboard_view .info .file {
+    background-color: transparent !important;
+}
+
+.ubeclass .eclass-list .table td {
+    color: #eeeeee !important;
+}
+
+.ubeclass .description {
+    color: #eeeeee !important;
+}
+
+.local_ubmanual .manual-all a {
+    color: #eeeeee !important;
+}
+
+.local_ubmanual .description {
+    color: #eeeeee !important;
+}
+
+.local_ubmanual ol>li {
+    color: #eeeeee !important;
+}
+
+.local_ubmanual ol.main_manual>li .title, .local_ubmanual ol.main_manual>li .title a {
+    color: #4bc99b !important;
+}
+
+a {
+    color: #82b5e1;
+}
+
+#page-userinfo .userinfo-title {
+    background-color: #3e3e3e !important;
+}
+
+#page-userinfo #tab-noti .media-lists .media {
+    background-color: #3e3e3e !important;
+}
+
+#vod_container .modal-body {
+    background-color: #3e3e3e !important;
+}
+
+#page-user-vod .modal-body {
+    border: 1px solid #eeeeee !important;
+}
+
+#vod_container .vod_upload .order .order-item a {
+    color: #eeeeee !important;
+}
+
+#page-container .col-block .notices .notice-item.notice-item-notice .subject {
+    color: #00d587 !important;
+}
