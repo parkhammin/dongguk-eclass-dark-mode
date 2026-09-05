@@ -8,7 +8,7 @@
 html,
 body,
 #page-container {
-  background-color: #3e3e3e !important;
+      background-color: rgb(12 16 20) !important;
   color: #eeeeee !important;
 }
 
@@ -96,11 +96,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .path-calendar .maincalendar .calendar-control
 }
 
 body.coursemos-layout-course.coursemos-coursepage-main .course-article {
-    background-color: #a9a9a9 !important;
+    background-color: #000000 !important;
 }
 
 #page-lnb .block-coursehome .card-body ul.topmenu .topmenu-item.expand, #page-lnb .block-coursehome .userprofile .profile_tree section ul.topmenu .topmenu-item.expand, .userprofile .profile_tree #page-lnb .block-coursehome section ul.topmenu .topmenu-item.expand {
-    background-color: #a9a9a9 !important;
+    background-color: #000000 !important;
 }
 
 .block .card-header .card-title a {
@@ -116,15 +116,15 @@ body.coursemos-layout-course.coursemos-coursepage-main .course-article {
 }
 
 body.coursemos-layout-course.coursemos-coursepage-main .course-article .col-article .course-article-body .article-list .article-list-item a {
-    color: #494949 !important;
+    color: #eeeeee !important;
 }
 
 #page-lnb .block-coursehome .card-body ul.topmenu .topmenu-item .submenu .submenu-item>a, #page-lnb .block-coursehome .userprofile .profile_tree section ul.topmenu .topmenu-item .submenu .submenu-item>a, .userprofile .profile_tree #page-lnb .block-coursehome section ul.topmenu .topmenu-item .submenu .submenu-item>a {
-    color: #494949 !important;
+    color: #eeeeee !important;
 }
 
 ul.section_tab>li {
-    background-color: #a9a9a9 !important;
+    background-color: #000000 !important;
 }
 
 .format-flexsections .course-content ul.flexsections li#section-0>.content>ul.section li.activity .instancename {
@@ -132,7 +132,7 @@ ul.section_tab>li {
 }
 
 .table-bordered tr th {
-    background: #535353 !important;
+        background: #3f4655 !important;
 }
 
 body.coursemos-layout-course.coursemos-coursepage #page-container #page-content .page-content-navigation nav .breadcrumb .breadcrumb-item:last-child a {
@@ -217,15 +217,15 @@ a {
 }
 
 #page-userinfo .userinfo-title {
-    background-color: #3e3e3e !important;
+    background-color: rgb(12 16 20) !important;
 }
 
 #page-userinfo #tab-noti .media-lists .media {
-    background-color: #3e3e3e !important;
+    background-color: rgb(12 16 20) !important;
 }
 
 #vod_container .modal-body {
-    background-color: #3e3e3e !important;
+    background-color: rgb(12 16 20) !important;
 }
 
 #page-user-vod .modal-body {
@@ -238,4 +238,28 @@ a {
 
 #page-container .col-block .notices .notice-item.notice-item-notice .subject {
     color: #00d587 !important;
+}
+
+#page-userinfo .row-userinfo .col-tab-content {
+    background-color: rgb(12 16 20) !important;
+}
+
+#page-userinfo #tab-my .user-links .link {
+    background-color: rgb(12 16 20) !important;
+}
+
+#page-userinfo #tab-my .user-mycourses ul.courses .course-item a {
+    background-color: rgb(12 16 20) !important;
+}
+
+#page-userinfo #tab-my .user-info .dropdown-lang .dropdown-toggle {
+    background: #eeeeee !important;
+}
+
+.modal-content, .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
+    background-color: rgb(12 16 20) !important;
+}
+
+.notice_popup .modal-body .date {
+    color: #eeeeee !important;
 }
