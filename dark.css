@@ -255,3 +255,7 @@ a {
 #page-userinfo #tab-my .user-info .dropdown-lang .dropdown-toggle {
     background: #eeeeee !important;
 }
+
+.modal-content, .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
+    background-color: #3e3e3e !important;
+}
