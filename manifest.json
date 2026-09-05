@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "동국대학교 e-Class 다크 테마",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "동국대학교 e-Class에 다크 테마를 적용합니다.",
   "permissions": ["storage"],
   "host_permissions": ["https://eclass.dongguk.edu/*"],
